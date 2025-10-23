@@ -1,7 +1,7 @@
 # Consumer Financial Protection Bureau (CFPB) Complaint Analytics Report (2017-2023)
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)](https://powerbi.microsoft.com)
-[![Dataset](https://img.shields.io/badge/Dataset-CFPB-blue)](https://www.consumerfinance.gov/data-research/consumer-complaints/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)](https://github.com/Uyi-Dave/Consumer-Financial-Protection-Bureau-CFPB-Complaint-Analytics-Report-2017-2023-/blob/main/Consumer%20Financial%20Complaints%20Analytics.pbix)
+[![Dataset](https://img.shields.io/badge/Dataset-CFPB-blue)](https://github.com/Uyi-Dave/Consumer-Financial-Protection-Bureau-CFPB-Complaint-Analytics-Report-2017-2023-/blob/main/Consumer%20Financial%20Complaints%20Dataset.xlsx)
 
 ---
 
