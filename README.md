@@ -1,7 +1,7 @@
 # Consumer Financial Protection Bureau (CFPB) Complaint Analytics Report (2017-2023)
 
-[![Power BI][[[(https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)](https://github.com/Uyi-Dave/Consumer-Financial-Protection-Bureau-CFPB-Complaint-Analytics-Report-2017-2023-/blob/main/Consumer%20Financial%20Complaints%20Analytics.pbix)
-[![Dataset][(https://img.shields.io/badge/Dataset-CFPB-blue)](https://github.com/Uyi-Dave/Consumer-Financial-Protection-Bureau-CFPB-Complaint-Analytics-Report-2017-2023-/blob/main/Consumer%20Financial%20Complaints%20Dataset.xlsx)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)](https://powerbi.microsoft.com)
+[![Dataset](https://img.shields.io/badge/Dataset-CFPB-blue)](https://www.consumerfinance.gov/data-research/consumer-complaints/)
 
 ---
 
@@ -56,15 +56,15 @@ Between 2017 and 2023, the CFPB received over 62,500 complaints with an impressi
 ## Dashboards
 
 ### Dashboard 1: Complaint Overview & Key Metrics
-![Dashboard 1](./Dashboards/Overview and Key Insights Dashboard (1).png)
+![Dashboard 1](./Dashboards/Overview%20and%20Key%20Insights%20Dashboard%20(1).png)
 *Overview of total complaints, timely response rates, and geographic distribution of complaints across the United States.*
 
 ### Dashboard 2: Drivers of Consumer Complaints
-![Dashboard 2](./Dashboards/Product, Issue Analysis Dashboard (2).png)
+![Dashboard 2](./Dashboards/Product,%20Issue%20Analysis%20Dashboard%20(2).png)
 *Deep dive into product categories, issues, sub-issues, and submission channels that drive consumer complaints.*
 
 ### Dashboard 3: Corporate Response Insights
-![Dashboard 3](./Dashboards/Company Performance Dashboard (3).png)
+![Dashboard 3](./Dashboards/Company%20Performance%20Dashboard%20(3).png)
 *Analysis of company performance, response times, market share correlations, and enforcement history impact.*
 
 ---
@@ -301,7 +301,7 @@ This analysis covers consumer complaints submitted to the CFPB between **May 1, 
 
 ---
 
-## 📊 Project Information
+## Project Information
 
 | Attribute | Details |
 |-----------|---------|
@@ -315,9 +315,9 @@ This analysis covers consumer complaints submitted to the CFPB between **May 1, 
 
 ## Connect With Me
 
-[![LinkedIn][(https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com)](https://www.linkedin.com/in/uyi-omokaro/)
-[![GitHub][(https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com)](https://github.com/Uyi-Dave)
-[![Portfolio][(https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com)](https://github.com/Uyi-Dave)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/uyi-omokaro/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Uyi-Dave)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://github.com/Uyi-Dave)
 
 ---
 
