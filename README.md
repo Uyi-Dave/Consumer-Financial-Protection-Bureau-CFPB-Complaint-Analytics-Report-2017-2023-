@@ -57,14 +57,17 @@ Between 2017 and 2023, the CFPB received over 62,500 complaints with an impressi
 
 ### Dashboard 1: Complaint Overview & Key Metrics
 ![Dashboard 1](./My%20Dashboards/Overview%20and%20Key%20Insights%20Dashboard%20(1)%20New.png)
+
 *Overview of total complaints, timely response rates, and geographic distribution of complaints across the United States.*
 
 ### Dashboard 2: Drivers of Consumer Complaints
 ![Dashboard 2](./My%20Dashboards/Product,%20Issue%20Analysis%20Dashboard%20(2).png)
+
 *Deep dive into product categories, issues, sub-issues, and submission channels that drive consumer complaints.*
 
 ### Dashboard 3: Corporate Response Insights
 ![Dashboard 3](./My%20Dashboards/Company%20Performance%20Dashboard%20(3)%20New.png)
+
 *Analysis of company performance, response times, market share correlations, and enforcement history impact.*
 
 ---
